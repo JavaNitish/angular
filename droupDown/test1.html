@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <script data-require="angular.js@1.4.0" data-semver="1.4.0" src="https://code.angularjs.org/1.4.0/angular.js"></script>
+    <script type="text/javascript">
+  angular.module("app", []).controller("myController", ["$scope", function($scope) {
+
+    $scope.OptionArray = [{
+      text: "Mumbai",
+      id: 1,
+      Country: "India"
+    }, {
+      text: "London",
+      id: 1,
+      Country: "UK"
+    }, {
+      text: "Perth",
+      id: 1,
+      Country: "Australia"
+    }, ]
+
+    $scope.optionSelectedOne = 2;
+  }]);
+    </script>
+  </head>
+
+  <body ng-app="app" ng-controller="myController">
+
+      <select ng-model="optionSelectedOne" ng-options="obj.id as obj.text group by obj.Country disable when obj.Country == 'Australia' for obj in OptionArray">
+      <option value="">Please Select Country</option>
+    </select>
+  </body>
+
+</html>

@@ -1,0 +1,30 @@
+<html ng-app="myApp">
+
+<head>
+    <meta charset="utf-8">
+    <title>Angular.js Example</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.10/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.10/angular-route.min.js"></script>
+    <script src="app.js"></script>
+    <script src="factoryjs.js"></script>
+
+</head>
+
+<body ng-controller="factoryctrl">
+
+
+    <ul ng-repeat="(key,val) in myfactory">
+          <h3>Details In My Server</h3>
+         <h2>{{key}}</h2>
+        <li>{{val.0}}</li>
+        <li>{{val.1}}</li>
+        <li>{{val.2}}</li>
+        <li>{{val.3}}</li>
+        <li>{{val.4}}</li>
+
+      </ul>
+
+
+</body>
+
+</html>

@@ -1,0 +1,278 @@
+[
+  {
+    "name": "WORLD",
+    "population": 6916183000
+  },
+  {
+    "name": "More developed regions",
+    "population": 1240935000
+  },
+  {
+    "name": "Less developed regions",
+    "population": 5675249000
+  },
+  {
+    "name": "Least developed countries",
+    "population": 838807000
+  },
+  {
+    "name": "Less developed regions, excluding least developed countries",
+    "population": 4836442000
+  },
+  {
+    "name": "Less developed regions, excluding China",
+    "population": 4284697000
+  },
+  {
+    "name": "Sub-Saharan Africa",
+    "population": 831464000
+  },
+  {
+    "name": "AFRICA",
+    "population": 1031084000
+  },
+  {
+    "name": "Eastern Africa",
+    "population": 342595000
+  },
+  {
+    "name": "Burundi",
+    "population": 9233000
+  },
+  {
+    "name": "Comoros",
+    "population": 683000
+  },
+  {
+    "name": "Djibouti",
+    "population": 834000
+  },
+  {
+    "name": "Eritrea",
+    "population": 5741000
+  },
+  {
+    "name": "Ethiopia",
+    "population": 87095000
+  },
+  {
+    "name": "Kenya",
+    "population": 40909000
+  },
+  {
+    "name": "Madagascar",
+    "population": 21080000
+  },
+  {
+    "name": "Malawi",
+    "population": 15014000
+  },
+  {
+    "name": "Mauritius",
+    "population": 1231000
+  },
+  {
+    "name": "Mayotte",
+    "population": 204000
+  },
+  {
+    "name": "Mozambique",
+    "population": 23967000
+  },
+  {
+    "name": "Réunion",
+    "population": 845000
+  },
+  {
+    "name": "Rwanda",
+    "population": 10837000
+  },
+  {
+    "name": "Seychelles",
+    "population": 91000
+  },
+  {
+    "name": "Somalia",
+    "population": 9636000
+  },
+  {
+    "name": "South Sudan",
+    "population": 9941000
+  },
+  {
+    "name": "Uganda",
+    "population": 33987000
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "population": 44973000
+  },
+  {
+    "name": "Zambia",
+    "population": 13217000
+  },
+  {
+    "name": "Zimbabwe",
+    "population": 13077000
+  },
+  {
+    "name": "Middle Africa",
+    "population": 124978000
+  },
+  {
+    "name": "Angola",
+    "population": 19549000
+  },
+  {
+    "name": "Cameroon",
+    "population": 20624000
+  },
+  {
+    "name": "Central African Republic",
+    "population": 4350000
+  },
+  {
+    "name": "Chad",
+    "population": 11721000
+  },
+  {
+    "name": "Congo",
+    "population": 4112000
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "population": 62191000
+  },
+  {
+    "name": "Equatorial Guinea",
+    "population": 696000
+  },
+  {
+    "name": "Gabon",
+    "population": 1556000
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "population": 178000
+  },
+  {
+    "name": "Northern Africa",
+    "population": 199620000
+  },
+  {
+    "name": "Algeria",
+    "population": 37063000
+  },
+  {
+    "name": "Egypt",
+    "population": 78076000
+  },
+  {
+    "name": "Libya",
+    "population": 6041000
+  },
+  {
+    "name": "Morocco",
+    "population": 31642000
+  },
+  {
+    "name": "Sudan",
+    "population": 35652000
+  },
+  {
+    "name": "Tunisia",
+    "population": 10632000
+  },
+  {
+    "name": "Western Sahara",
+    "population": 515000
+  },
+  {
+    "name": "Southern Africa",
+    "population": 58803000
+  },
+  {
+    "name": "Botswana",
+    "population": 1969000
+  },
+  {
+    "name": "Lesotho",
+    "population": 2009000
+  },
+  {
+    "name": "Namibia",
+    "population": 2179000
+  },
+  {
+    "name": "South Africa",
+    "population": 51452000
+  },
+  {
+    "name": "Swaziland",
+    "population": 1193000
+  },
+  {
+    "name": "Western Africa",
+    "population": 305088000
+  },
+  {
+    "name": "Benin",
+    "population": 9510000
+  },
+  {
+    "name": "Burkina Faso",
+    "population": 15540000
+  },
+  {
+    "name": "Cape Verde",
+    "population": 488000
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "population": 18977000
+  },
+  {
+    "name": "Gambia",
+    "population": 1681000
+  },
+  {
+    "name": "Ghana",
+    "population": 24263000
+  },
+  {
+    "name": "Guinea",
+    "population": 10876000
+  },
+  {
+    "name": "Guinea-Bissau",
+    "population": 1587000
+  },
+  {
+    "name": "Liberia",
+    "population": 3958000
+  },
+  {
+    "name": "Mali",
+    "population": 13986000
+  },
+  {
+    "name": "Mauritania",
+    "population": 3609000
+  },
+  {
+    "name": "Niger",
+    "population": 15894000
+  },
+  {
+    "name": "Nigeria",
+    "population": 159708000
+  },
+  {
+    "name": "Saint Helena",
+    "population": 4000
+  },
+  {
+    "name": "Senegal",
+    "population": 12951000
+  }
+    ]

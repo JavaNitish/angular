@@ -1,0 +1,34 @@
+<html ng-app="plunker">
+
+<head>
+
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.10.0.js"></script>
+  <script src="script.js"></script>
+</head>
+
+<body ng-controller="testController">
+  <h1>AngularJS Boostrap Drop Down Demo</h1>
+
+  <p>{{ status }}</p>
+
+  <div class="dropdown">
+    <a class="btn btn-default" data-toggle="dropdown" href="#">{{ country }} <b class="caret"></b></a>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownCountry">
+      <li ng-repeat="country in data.locations.countries | orderBy:'country'">
+        <a>{{country.country}}</a>
+      </li>
+    </ul>
+      {{country}}
+  </div>
+
+</body>
+
+</html>
+
+
+                
